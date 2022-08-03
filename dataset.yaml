@@ -1,0 +1,5 @@
+train: ../dataset/train/images
+val: ../dataset/val/images
+
+nc: 7  # number of classes
+names: ['Feeding', 'Drinking', 'Perching', 'Pecking', 'Dust Bathing', 'Preening', 'Foraging']  # class names
